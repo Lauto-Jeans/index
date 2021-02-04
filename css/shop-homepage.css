@@ -14,6 +14,10 @@ body {
   background-color: rgb(68, 67, 80);
   padding: 1rem 0;
 }
+.division1 {
+  background-color: rgb(255, 255, 255);
+  padding: 1rem 0;
+}
 .navbar-expand-lg{
   background-color: rgb(68, 67, 80);
 }
